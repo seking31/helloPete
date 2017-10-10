@@ -1,0 +1,15 @@
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\HelloPeteTests.dll
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\HelloPeteTests.pdb
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\HelloPete.exe
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\HelloPete.pdb
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\obj\Debug\HelloPeteTests.csprojResolveAssemblyReference.cache
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\obj\Debug\HelloPeteTests.csproj.CoreCompileInputs.cache
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\obj\Debug\HelloPeteTests.dll
+C:\Users\kingsa\source\repos\HelloPete\HelloPeteTests\obj\Debug\HelloPeteTests.pdb

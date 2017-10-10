@@ -1,0 +1,5 @@
+C:\Users\kingsa\source\repos\HelloPete\HelloPete\obj\Debug\HelloPete.csproj.CoreCompileInputs.cache
+C:\Users\kingsa\source\repos\HelloPete\HelloPete\bin\Debug\HelloPete.exe
+C:\Users\kingsa\source\repos\HelloPete\HelloPete\bin\Debug\HelloPete.pdb
+C:\Users\kingsa\source\repos\HelloPete\HelloPete\obj\Debug\HelloPete.exe
+C:\Users\kingsa\source\repos\HelloPete\HelloPete\obj\Debug\HelloPete.pdb
