@@ -6,9 +6,6 @@ namespace HelloPete
 {
     public class Utilities
     {
-        public string HelloPete()
-        {
-            return "Hello Pete!";
-        }
+        public string HelloPete() => "Hello Pete, have some snax!";
     }
 }

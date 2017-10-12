@@ -1,0 +1,6 @@
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\b\HelloPete\bin\Debug\HelloPete.exe
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\b\HelloPete\bin\Debug\HelloPete.pdb
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\i\HelloPete\Debug\HelloPete.csprojResolveAssemblyReference.cache
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\i\HelloPete\Debug\HelloPete.csproj.CoreCompileInputs.cache
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\i\HelloPete\Debug\HelloPete.exe
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\i\HelloPete\Debug\HelloPete.pdb

@@ -1,0 +1,9 @@
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\b\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\b\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\b\HelloPeteTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\b\HelloPeteTests\bin\Debug\HelloPeteTests.dll
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\b\HelloPeteTests\bin\Debug\HelloPeteTests.pdb
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\i\HelloPeteTests\Debug\HelloPeteTests.csprojResolveAssemblyReference.cache
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\i\HelloPeteTests\Debug\HelloPeteTests.csproj.CoreCompileInputs.cache
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\i\HelloPeteTests\Debug\HelloPeteTests.dll
+C:\Users\kingsa\workspace\helloPete\.vs\HelloPete\lut\0\i\HelloPeteTests\Debug\HelloPeteTests.pdb
