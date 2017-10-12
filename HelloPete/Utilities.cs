@@ -6,6 +6,6 @@ namespace HelloPete
 {
     public class Utilities
     {
-        public string HelloPete() => "Hello Pete, have some snax, movies, dogs, birds, bears, t-rex, cats and beer!";
+        public string HelloPete() => "Hello Pete, have some snax, movies, dogs, birds, bears, t-rex, evil cats and beer!";
     }
 }
