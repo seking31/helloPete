@@ -6,6 +6,6 @@ namespace HelloPete
 {
     public class Utilities
     {
-        public string HelloPete() => "Hello Pete, have some snax!!!";
+        public string HelloPete() => "Hello Pete, have some snax, and beer!";
     }
 }
